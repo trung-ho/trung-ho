@@ -53,13 +53,13 @@ Provided maintenance and development or bug fixed.
 
 ## Education
 
-### **Master of Science, Computer Science**** ,** Sep 2018 to Nov 2019
+**Master of Science, Computer Science** , Sep 2018 to Nov 2019
 
-National University, San Diego, US
+- National University, San Diego, US
 
-### **Bachelor of Science, Software Engineering**** ,** Sep 2008 to Apr 2014
+**Bachelor of Science, Software Engineering** , Sep 2008 to Apr 2014
 
-FPT University, Vietnam
+- FPT University, Vietnam
 
 ## Technology Skills
 
