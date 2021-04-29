@@ -34,8 +34,7 @@ Trung Ho
 - Proposed technical solutions for new functions and suggested options for performance improvement.
 - Assisted senior developers to meet deadlines during under-staffed periods.
 - Created and execute unit test to make sure projects always run correctly.
-
-Provided maintenance and development or bug fixed.
+- Provided maintenance and development or bug fixed.
 
 ### **Futureworkz**  **-**  **Software Consulting in Singapore**
 
