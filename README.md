@@ -4,14 +4,14 @@ Trung Ho
 
 ### Summary
 
-- Ruby on Rails developer with 4+ years of experience.
-- Skilled in analyze requirements, system architecture research and problem solving.
-- Experience with improve performance and troubleshoot issues in large-scale applications.
+- Ruby on Rails developer with 6+ years of experience.
+- Skilled in analyzing requirements, system architecture research, and problem-solving.
+- Experience with improving performance and troubleshooting issues in large-scale applications.
 - Experience with third-party library and API integration.
 
 ## Professional Experience
 
-### **Boatsetter**  **–**  **Peer to Peer Boat Rental Platform in Fort Lauderdale, US**
+### **Boatsetter**  **–**  **Peer-to-Peer Boat Rental Platform in Fort Lauderdale, US**
 
 **Software Engineer,** Feb 2019 to Now
 
@@ -19,9 +19,9 @@ Trung Ho
 - Integrate with data storage solutions.
 - Build UX elements for front-end applications
 - Maintain code quality and test automation.
-- Collaborate with product managers to define clear requirements, software deliverables and milestones.
+- Collaborate with product managers to define clear requirements, software deliverables, and milestones.
 - Work closely with UI designers to iterate on our user experience.
-- Provided maintenance and development or bug fixed.
+- Provided maintenance and development or bug fixes.
 
 
 ### **Wonolo Inc**  **-**  **On-Demand Staffing Platform in San Francisco, US**
@@ -29,19 +29,19 @@ Trung Ho
 **Remote Ruby on Rails developer,** Nov 2015 to Dec 2017
 
 - Developed and maintained features platform which used by millions of Users.
-- Wrote clean, maintainable and efficient code in Front-end, Back end and REST API.
+- Wrote clean, maintainable, and efficient code in Front-end, Back end, and REST API.
 - Recommended system improvements and design solutions.
 - Proposed technical solutions for new functions and suggested options for performance improvement.
 - Assisted senior developers to meet deadlines during under-staffed periods.
-- Created and execute unit test to make sure projects always run correctly.
-- Provided maintenance and development or bug fixed.
+- Created and executed unit tests to make sure projects always run correctly.
+- Provided maintenance and development or bug fixes.
 
 ### **Futureworkz**  **-**  **Software Consulting in Singapore**
 
 **Full stack Ruby on Rails developer,** Nov 2014 to Oct 2015
 
-- Created eye catching and functional Web application across various web
-- Converted mockups into HTML, CSS and JavaScript.
+- Created eye-catching and functional Web application across various web
+- Converted mockups into HTML, CSS, and JavaScript.
 
 ### **FPT Software - Software Consulting in Vietnam**
 
