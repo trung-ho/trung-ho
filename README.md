@@ -13,7 +13,7 @@ Trung Ho
 
 ### **Boatsetter**  **–**  **Peer-to-Peer Boat Rental Platform in Fort Lauderdale, US**
 
-**Software Engineer,** Feb 2019 to Now
+**Software Engineer,** Feb 2020 to Now
 
 - Design, build, and maintain efficient, reusable, and reliable Ruby code.
 - Integrate with data storage solutions.
